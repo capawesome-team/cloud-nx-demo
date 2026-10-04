@@ -24,6 +24,7 @@ export default [
           style: 'kebab-case',
         },
       ],
+      '@angular-eslint/prefer-on-push-component-change-detection': 'off',
     },
   },
   {

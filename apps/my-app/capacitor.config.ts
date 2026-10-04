@@ -4,7 +4,6 @@ const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'my-app',
   webDir: '../../dist/apps/my-app/browser',
-  bundledWebRuntime: false,
   server: {
     androidScheme: 'https',
   },
